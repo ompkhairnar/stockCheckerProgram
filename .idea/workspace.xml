@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a38c227-3054-4b18-bbd3-620e973757e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockChecker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StockChecker.java" afterDir="false" />
-    </list>
+    <list default="true" id="2a38c227-3054-4b18-bbd3-620e973757e7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +63,7 @@
   <component name="RunManager">
     <configuration name="StockChecker" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StockChecker" />
-      <module name="StockChecker" />
+      <module name="StockCheckerProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,6 +89,7 @@
       <workItem from="1724431903446" duration="24359000" />
       <workItem from="1724952816494" duration="18094000" />
       <workItem from="1725558275699" duration="1670000" />
+      <workItem from="1726540720366" duration="2426000" />
     </task>
     <servers />
   </component>
